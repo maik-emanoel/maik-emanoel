@@ -18,6 +18,14 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-  
-### Studying in this moment:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+## Contact
+
+<p align="left" style="background:yellow">
+<a href="https://twitter.com/maik_emanoel" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-05122A?style=flat&logo=twitter" alt="twitter"/>  
+</a>
+<a href="https://instagram.com/maik.emanoel" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
