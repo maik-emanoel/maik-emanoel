@@ -34,7 +34,7 @@
 <a href="https://instagram.com/maik.emanoel" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://www.linkedin.com/in/maik-emanoel-b21539269/" target="_blank">
+<a href="https://www.linkedin.com/in/maik-emanoel/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 </p>
