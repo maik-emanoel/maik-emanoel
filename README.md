@@ -28,9 +28,6 @@
 ## Contact
 
 <p align="left" style="background:yellow">
-<a href="https://twitter.com/maik_emanoel" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
 <a href="https://instagram.com/maik.emanoel" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
