@@ -21,9 +21,6 @@
 ![Nest.js](https://img.shields.io/badge/nestjs-0D1117.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-0D1117.svg?style=for-the-badge&logo=typeorm&logoColor=white)
 
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-
 ## Contact
 
 <p align="left" style="background:yellow">
