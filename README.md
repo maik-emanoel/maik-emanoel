@@ -20,6 +20,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Nest.js](https://img.shields.io/badge/nestjs-0D1117.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-0D1117.svg?style=for-the-badge&logo=typeorm&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-0D1117.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ## Contact
 
